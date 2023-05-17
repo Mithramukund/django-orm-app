@@ -52,6 +52,7 @@ class StudentMasterAdmin(admin.ModelAdmin):
 
 ## OUTPUT
 ![Screenshot 2023-04-16 002828](https://user-images.githubusercontent.com/112475766/232248587-d6aa3bf2-ae3c-4574-835a-aba7145489f8.png)
+![image](https://github.com/Mithramukund/django-orm-app/assets/121608770/e1d93933-5206-4c46-8a1a-65125e5d6b5a)
 (Image)![image](https://github.com/Mithramukund/django-orm-app/assets/121608770/8ece114a-346d-4d0d-b66d-6b84ed7e67b9)
 
 
